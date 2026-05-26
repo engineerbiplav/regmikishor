@@ -377,7 +377,7 @@ section { padding: 120px 5%; }
   line-height: 1.1; margin-bottom: 20px;
 }
 .section-title em { font-style: italic; color: var(--slate); }
-.section-intro { font-size: 1rem; color: #4A5568; line-height: 1.8; max-width: 560px; font-weight: 300; }
+.section-intro { font-size: 1rem; color: #586f95; line-height: 1.8; max-width: 560px; font-weight: 300; }
 
 /* ---- ABOUT ---- */
 #about {
