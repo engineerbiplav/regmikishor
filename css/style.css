@@ -561,7 +561,6 @@ section { padding: 120px 5%; }
 
 /* ---- EDUCATION ---- */
 #education { background: var(--navy); }
-#education.section-title{color: white;}
    
 .edu-grid {
   display: grid; grid-template-columns: repeat(2,1fr);
