@@ -560,7 +560,9 @@ section { padding: 120px 5%; }
 }
 
 /* ---- EDUCATION ---- */
-#education { background: var(--cream-dk); }
+#education { background: var(--navy); }
+#education.section-title{color: white;}
+   
 .edu-grid {
   display: grid; grid-template-columns: repeat(2,1fr);
   gap: 24px; margin-top: 60px;
@@ -572,6 +574,7 @@ section { padding: 120px 5%; }
   position: relative; overflow: hidden;
   transition: transform .3s, box-shadow .3s;
 }
+
 .edu-card::before {
   content: ''; position: absolute;
   top: 0; left: 0; bottom: 0; width: 3px;
